@@ -1,3 +1,3 @@
 export const routes = {
-  asset: (fileName: string) => `/${fileName}`,
+  asset: (fileName: string) => `/ticket-app/${fileName}`,
 };
